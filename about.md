@@ -3,6 +3,4 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
-
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+I am an M.Phil. student in Risk Management Science in the [Department of Statistics](https://www.sta.cuhk.edu.hk) at the [Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). I am doing research under the supervision of [Prof. Kin Wai CHAN](https://sites.google.com/site/kwchankeith/home?authuser=0). My research interests include long-run variance estimation of time series.
