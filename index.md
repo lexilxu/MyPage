@@ -1,5 +1,6 @@
 ---
 layout = home
+permlink = pretty
 title = Welcome
 ---
 
