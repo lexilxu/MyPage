@@ -4,6 +4,10 @@ layout: default
 
 {% include home-header.html %}
 
+<h1 class="page-title"> Welcome!
+  <p class="lead"> I am an M.Phil. student in Risk Management Science in the Department of Statistics at the Chinese University of Hong Kong. 
+    I am doing research under the supervision of Prof. Kin Wai CHAN. My research interests include long-run variance estimation of time series.
+    
 <div class="posts">
   {% for post in paginator.posts %}
   <section class="post-entry">
@@ -30,6 +34,7 @@ layout: default
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
   {%- endif -%}
 </div>
+
 
 <div class="pagination">
   {% if paginator.next_page %}
