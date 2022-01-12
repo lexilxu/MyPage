@@ -1,5 +1,5 @@
 ---
-layout: archive-research
+layout: page
 permalink: /research/
 title: Research
 type: research
