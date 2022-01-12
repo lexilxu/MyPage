@@ -1,6 +1,5 @@
 ---
-layout: archive-sharing
-permalink: /sharing/
+layout: page
 title: Sharing
 type: sharing
 ---
