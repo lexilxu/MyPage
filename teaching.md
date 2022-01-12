@@ -6,11 +6,13 @@ type: teaching
 
 ---
 
-## 2021 Fall
+# 2021 Fall
 
 **STAT 3005** Nonparametric Statistics: 
 
 [Course Website](https://sites.google.com/site/kwchankeith/teaching/s3005?authuser=0)
+
+## Tutorial timetable
 
 | No.| Date  | Topic | Link | Remark |
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |
