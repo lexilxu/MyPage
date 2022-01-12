@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: pretty
+permalink: /home/
 title: Welcome
 
 ---
