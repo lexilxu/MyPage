@@ -1,2 +1,4 @@
-source 'http://rubygems.org'
-gem 'jekyll-remote-theme' 
+source "https://rubygems.org"
+gemspec
+
+gem 'jekyll-compose', group: [:jekyll_plugins]
