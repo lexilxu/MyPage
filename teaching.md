@@ -24,7 +24,7 @@ type: teaching
 | 8  | 1115 | Bootstrap (1) | [TUT8_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1115.pdf?csf=1&web=1&e=FvZYwT)  |   |
 | 9 | 1122 | Bootstrap (2) | [TUT9_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1122.pdf?csf=1&web=1&e=h3t4nq)|   |
 | 10  | 1129 | Density estimation | [TUT10_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1129.pdf?csf=1&web=1&e=KiaYjE) |  |
-| 11 | 1213 | Final review session | [Final_Review](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/FinalReview.pdf?csf=1&web=1&e=2FXZdo) | This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800. I mainly talked about nonparametric regression and some issues with the resampling methods.|
+| 11 | 1213 | Final review session | [Final_Review](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/FinalReview.pdf?csf=1&web=1&e=2FXZdo) | This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800.|
 
 ---
 
