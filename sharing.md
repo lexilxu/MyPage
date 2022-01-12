@@ -1,5 +1,5 @@
 ---
-layout: archive-taxonomies
+layout: archive-sharing
 permalink: /sharing/
 title: Sharing
 type: sharing
