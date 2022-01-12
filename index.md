@@ -1,5 +1,5 @@
 ---
-layout = home
+layout = page
 permlink = pretty
 title = Welcome
 ---
