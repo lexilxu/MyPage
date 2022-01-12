@@ -12,7 +12,6 @@ type: teaching
 
 [Course Website](https://sites.google.com/site/kwchankeith/teaching/s3005?authuser=0)
 
----
 | No.| Date  | Topic | Link | Remark |
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |
 | 1 | 0913 & 0920 | Review of basics | [TUT1_NoSol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/TUT1_0913.pdf?csf=1&web=1&e=Pgk1Fw); [TUT1_Codes](https://mycuhk-my.sharepoint.com/:u:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/TUT1_0920.R?csf=1&web=1&e=I63nAp)|   |                                  
@@ -26,6 +25,4 @@ type: teaching
 | 9 | 1122 | Bootstrap (2) | [TUT9_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1122.pdf?csf=1&web=1&e=h3t4nq)|   |
 | 10  | 1129 | Density estimation | [TUT10_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1129.pdf?csf=1&web=1&e=KiaYjE) |  |
 | 11 | 1213 | Final review session | [Final_Review](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/FinalReview.pdf?csf=1&web=1&e=2FXZdo) | This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800.|
-
----
 
