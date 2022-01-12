@@ -52,12 +52,6 @@ footer {
   }
 }
 
-@media (min-width: $lg-width) {
-  .sidebar-right {
-    display: block;
-  }
-}
-
 @media (max-width: $lg-width) {
   .sidebar-right {
     display: none;
