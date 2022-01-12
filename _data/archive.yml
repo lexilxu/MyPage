@@ -7,4 +7,6 @@
 - type: sharing
   title: Sharing
   url: /sharing
-
+- type: contact
+  title: Contact
+  url: /contact
