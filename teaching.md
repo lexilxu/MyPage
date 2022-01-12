@@ -8,7 +8,7 @@ type: teaching
 
 ## 2021 Fall
 
-** STAT 3005** Nonparametric Statistics: 
+**STAT 3005** Nonparametric Statistics: 
 
 
 ---
