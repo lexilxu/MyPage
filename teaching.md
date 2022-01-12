@@ -10,6 +10,8 @@ type: teaching
 
 ** STAT 3005** Nonparametric Statistics: 
 
+
+---
 | No.| Date  | Topic | Link | Remark |
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |
 | 1 | 0913 & 0920 | Review of basics | [TUT1_NoSol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/TUT1_0913.pdf?csf=1&web=1&e=Pgk1Fw)
@@ -31,5 +33,5 @@ type: teaching
 | 11 | 1213 | Final review session | [Final_Review](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/FinalReview.pdf?csf=1&web=1&e=2FXZdo) | 
 This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800. I mainly talked about nonparametric regression and some issues with the resampling methods.|
 
-
+---
 
