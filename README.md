@@ -5,7 +5,7 @@ I am an M.Phil. student in Risk Management Science in the [Department of Statist
 ## Education Background 
 - M.Phil. in Risk Management Science (Expected 2023)
 - B.Sc. in Quantitative Finance and Risk Management Science, First Class Honors; Minor in Statistics
-  - Sub Term-Long Exchange Program with [Wharton School, University of Pennsylvania](https://www.wharton.upenn.edu) (18/19)
+  - Term-Long Exchange Program with [Wharton School, University of Pennsylvania](https://www.wharton.upenn.edu) (18/19)
 
 ## Awards
 - Best Teaching Assistant Award (2021-22 Term 1)
