@@ -3,9 +3,10 @@ title: Xu Liu (Lexi)
 description: M.Phil. in Risk Management Science (Expected 2023), CUHK
 url: https://lexiliu392.github.io/lexilxu/home/
 avatar: /profile.JPG
-# paginate: 5
-permalink: /home
+paginate: 5
+permalink:  pretty
 cover_image: /bg.jpg
+background_image: /bigbg.jpg
 
 # Gems
 plugins:
@@ -26,3 +27,12 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
+
+social:
+  name: LIU Xu
+google_site_verification: xxxxx
+lang: en
+  
+sass:
+  sass_dir: _sass
+  style: :compressed
