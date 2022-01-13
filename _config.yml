@@ -28,11 +28,11 @@ exclude:
   - scripts/
   - not-pure-poole.gemspec
 
-social:
-  name: LIU Xu
-google_site_verification: xxxxx
-lang: en
-  
 sass:
   sass_dir: _sass
   style: :compressed
+  
+author:
+  name: Xu Liu
+  url: https://lexiliu392.github.io/lexilxu/
+  email: lexilxu@gmail.com
