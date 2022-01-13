@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /sharing/
+title:
 type: sharing
 ---
 
