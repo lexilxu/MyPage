@@ -6,7 +6,7 @@ type: teaching
 
 ---
 
-## 2021 Fall
+## 20/21 Fall
 
 [**STAT 3005** Nonparametric Statistics:](https://sites.google.com/site/kwchankeith/teaching/s3005?authuser=0) 
 
@@ -26,3 +26,8 @@ Tutorial timetable
 | 10  | 1129 | Density estimation | [TUT10_Sol](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/1129.pdf?csf=1&web=1&e=KiaYjE) |  |
 | 11 | 1213 | Final review session | [Final_Review](https://mycuhk-my.sharepoint.com/:b:/r/personal/1155091975_link_cuhk_edu_hk/Documents/S3005/Tutorial/FinalReview.pdf?csf=1&web=1&e=2FXZdo) | This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800.|
 
+## 20/21 Spring
+
+**RMSC4001** Simulation Methods for Risk Management and Finance:
+
+Coming soon.
