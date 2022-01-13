@@ -9,7 +9,7 @@
   {%- if year_from == nil or year_from == year_to -%}
     {%- assign year_string = year_from -%}
   {%- else -%}
-    {%- assign year_string =  mon_to | append year_to -%}
+    {%- assign year_string =  mon_to | append: year_to -%}
   {%- endif -%}
   <small>
     &copy; Updated {{ year_string }} by {% if site.author %}<a href="{{ site.author.url }}">{{ site.author.name }}</a>{% endif %}. 
