@@ -1,16 +1,16 @@
 ---
 layout: page
 permalink: /teaching/
-title: 
+title: Teaching
 type: teaching
 
 ---
 
-# 2021 Fall
+## 2021 Fall
 
 [**STAT 3005** Nonparametric Statistics:](https://sites.google.com/site/kwchankeith/teaching/s3005?authuser=0) 
 
-## Tutorial timetable
+Tutorial timetable
 
 | No.| Date  | Topic | Link | Remark |
 | ------------- | ------------- | ------------- |  ------------- |  ------------- |
