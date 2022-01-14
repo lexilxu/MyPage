@@ -6,7 +6,7 @@ type: teaching
 
 ---
 
-## 20/21 Fall
+## 21/22 Fall
 
 [**STAT 3005** Nonparametric Statistics:](https://sites.google.com/site/kwchankeith/teaching/s3005?authuser=0) 
 
@@ -26,7 +26,7 @@ Tutorial timetable
 | 10  | 1129 | Density estimation | [TUT10_Sol](https://drive.google.com/file/d/1bw12a9hBUbSnIEK-5wakGEN2yViexNhB/view?usp=sharing) |  |
 | 11 | 1213 | Final review session | [Final_Review](https://drive.google.com/file/d/1DuriqBJeu5W4l8C30MLpQ8sPSVsR2Gm4/view?usp=sharing) | This tutorial note was used in the online review session co-hosted with [Kai Pan (Ben) Chu](https://sites.google.com/view/kpchu) on Dec 13th (Mon) 1600-1800.|
 
-## 20/21 Spring
+## 21/22 Spring
 
 **RMSC4001** Simulation Methods for Risk Management and Finance:
 
