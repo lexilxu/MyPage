@@ -30,6 +30,13 @@ Tutorial timetable
 
 **RMSC4001** Simulation Methods for Risk Management and Finance:
 
+Tutorial timetable
+
+| No.| Date  | Topic | Link | Remark |
+| ------------- | ------------- | ------------- |  ------------- |  ------------- |
+| 1 | Jan 17-19 | Tutorial 1 | [TUT1_Sol](https://drive.google.com/file/d/1JBTbgZQJEwAE8-wqwiUo6txvAoq2oma3/view?usp=sharing) | |
+
+
 **RMSC5012** Simulation Techniques for Risk Management and Finance:
 
 Coming soon.
