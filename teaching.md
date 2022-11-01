@@ -5,6 +5,21 @@ title: Teaching
 type: teaching
 
 ---
+## 22/23 Fall
+
+[**STAT 3005** Nonparametric Statistics:](https://sites.google.com/site/kwchankeith/teaching/s3005/s3005-2022Fall) 
+
+Tutorial timetable
+
+| No.| Date  | Topic | Link | Remark |
+| ------------- | ------------- | ------------- |  ------------- |  ------------- |
+| 1 |  0915 | Review of basics | [tutorial1_NoSol](https://drive.google.com/file/d/1n-a0xtOF55nTvvz16xrZD03mNk3PQaIm/view?usp=share_link); [tutorial1_WithSol](https://drive.google.com/file/d/143DtVrl8TptwjJ4-dFl_T7pxYVLJkXjj/view?usp=share_link)|   |                                  
+| 2  | 0922  | Principle of signs & ranks | [tutorial2_NoSol](https://drive.google.com/file/d/1q3bKR6bEWKFB-vGxItoJ2UndIZPocRyD/view?usp=share_link); [tutorial2_WithSol](https://drive.google.com/file/d/1VWf-MZHXr7NLj50dOWMkVHjmmk2Zb9hU/view?usp=sharing)|  |
+| 3  | 0929 & 1006  | Theory of signs & ranks | [tutorial3_NoSol](https://drive.google.com/file/d/1qtuP61mA0SECbzhQDX71Iw52RAYegsqs/view?usp=share_link); [tutorial3_WithSol](https://drive.google.com/file/d/1JnV9tL_OKNsPsOjPKooCDn37si0XH6fe/view?usp=share_link)| |   
+| 4  | 1013  | Correlation measures & independence tests | [tutorial4_NoSol](https://drive.google.com/file/d/1eyI-iw-48Jk5zc3Ept6bKJpjHCJdMr0L/view?usp=share_link); [tutorial4_WithSol](https://drive.google.com/file/d/1hDoSUQ1BPUTKep2DEitZis0_AcS108vj/view?usp=share_link)|  |
+| 5  | 1020 & 1027  | Midterm review | [tutorial5_NoSol](https://drive.google.com/file/d/1fUa3008tTzae2KjdTb_VWLbhwNmPZg2f/view?usp=share_link);  [tutorial5_WithSol](https://drive.google.com/file/d/1TXDqW7noilfA1aXmvHWOBm-m3QQJK_zk/view?usp=share_link)|  |
+
+--
 
 ## 21/22 Fall
 
